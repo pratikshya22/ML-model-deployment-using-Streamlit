@@ -1,0 +1,50 @@
+/* style.css
+/* Main styles */
+/* body {
+    background-color: #f0f2f6;
+} */
+
+/* Prediction card */
+/* .prediction-card {
+    background: linear-gradient(145deg, #ffffff, #f0f0f0);
+    border-radius: 20px;
+    padding: 2rem;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.1);
+    text-align: center;
+    margin: 2rem 0;
+} */
+
+/* .gauge {
+    height: 20px;
+    background: #e0e0e0;
+    border-radius: 10px;
+    position: relative;
+    margin: 1rem 0;
+} */
+
+/* .gauge::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    height: 100%;
+    width: var(--progress);
+    background: linear-gradient(90deg, #4CAF50, #8BC34A);
+    border-radius: 10px;
+    transition: width 0.5s ease;
+}
+
+.probability {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #2c3e50;
+    margin: 1rem 0;
+} */
+
+/* Input styling */
+/* .stSlider {
+    margin: 1.5rem 0;
+}
+
+.stSelectbox > div {
+    border-radius: 10px;
+} */ 
